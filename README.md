@@ -1,2 +1,2 @@
-# clase6_LIS_MH180095
-Expresiones regulares
+# clase6_LIS
+funciones y expresiones regulares
